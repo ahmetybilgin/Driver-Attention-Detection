@@ -1,5 +1,6 @@
 # dlSurucuDikkatTespit
 Derin Öğrenme ile Sürücü Dikkat Tespit Sistemi
+10.01.2020
 
 </p><p align="center">
 <img src="https://raw.githubusercontent.com/ahmetybilgin/dlSurucuDikkatTespit/main/poster.PNG" /> 
